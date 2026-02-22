@@ -1,0 +1,58 @@
+[
+  {
+    "id": "slope",
+    "title": "Slope",
+    "description": "A fast-paced 3D running game where you navigate a ball down a steep slope.",
+    "thumbnail": "https://picsum.photos/seed/slope/400/300",
+    "iframeUrl": "https://wayback-slope.github.io/"
+  },
+  {
+    "id": "2048",
+    "title": "2048",
+    "description": "Join the numbers and get to the 2048 tile!",
+    "thumbnail": "https://picsum.photos/seed/2048/400/300",
+    "iframeUrl": "https://play2048.co/"
+  },
+  {
+    "id": "tetris",
+    "title": "Tetris",
+    "description": "The classic block-stacking puzzle game.",
+    "thumbnail": "https://picsum.photos/seed/tetris/400/300",
+    "iframeUrl": "https://tetris.com/play-tetris"
+  },
+  {
+    "id": "tunnel-rush",
+    "title": "Tunnel Rush",
+    "description": "Fast-paced dodging game in a colorful tunnel.",
+    "thumbnail": "https://picsum.photos/seed/tunnel/400/300",
+    "iframeUrl": "https://tunnel-rush.github.io/"
+  },
+  {
+    "id": "retro-bowl",
+    "title": "Retro Bowl",
+    "description": "The perfect game for the armchair quarterback.",
+    "thumbnail": "https://picsum.photos/seed/football/400/300",
+    "iframeUrl": "https://game316009.konggames.com/gamez/0031/6009/live/index.html"
+  },
+  {
+    "id": "cookie-clicker",
+    "title": "Cookie Clicker",
+    "description": "The original idle game where you bake an absurd amount of cookies.",
+    "thumbnail": "https://picsum.photos/seed/cookie/400/300",
+    "iframeUrl": "https://orteil.dashnet.org/cookieclicker/"
+  },
+  {
+    "id": "crossy-road",
+    "title": "Crossy Road",
+    "description": "Why did the chicken cross the road? Find out in this endless hopper.",
+    "thumbnail": "https://picsum.photos/seed/crossy/400/300",
+    "iframeUrl": "https://poki.com/en/g/crossy-road"
+  },
+  {
+    "id": "subway-surfers",
+    "title": "Subway Surfers",
+    "description": "Dash as fast as you can! Dodge the oncoming trains!",
+    "thumbnail": "https://picsum.photos/seed/subway/400/300",
+    "iframeUrl": "https://poki.com/en/g/subway-surfers"
+  }
+]
